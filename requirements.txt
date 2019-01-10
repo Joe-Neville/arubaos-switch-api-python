@@ -2,7 +2,7 @@ certifi==2017.11.5
 chardet==3.0.4
 idna==2.6
 pyaml==17.10.0
-PyYAML==3.12
+PyYAML>=4.2b1
 requests==2.20.0
 urllib3==1.22
 xlrd==1.1.0
